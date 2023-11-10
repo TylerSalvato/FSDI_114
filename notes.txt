@@ -1,0 +1,11 @@
+jupyter-notebook
+
+dig deeper into a "pop" (out) of a Stack.
+
+Stacks used for priority and memory
+
+buffer over flow
+
+how define list outside myFunction
+modify in myFunction
+maintain outside of myFunction
